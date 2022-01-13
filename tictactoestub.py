@@ -1,7 +1,4 @@
-'''
-Solo Checkpoint 02
-Author: Bro. Hayes
-'''
+
 
 def main():
     ''' Holds the main game loop logic
